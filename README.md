@@ -1,4 +1,7 @@
 # ESL-Replication
+Python code for algorithmic replication of ESL! The bible of statistical learning (to me) https://hastie.su.domains/ElemStatLearn/
+
+## Description
 Python code replicating figures and computations from Elements of Statistical Learning. Algorithms coded from scratch.
 
 1. [Chapter 3 Examples](Chapter%203%20Examples)
